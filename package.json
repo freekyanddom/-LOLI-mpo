@@ -1,0 +1,41 @@
+{
+  "dependencies": {
+    "@discordjs/node-pre-gyp": "^0.4.2",
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/rest": "^1.0.1",
+    "@discordjs/voice": "^0.10.0",
+    "ascii-table": "^0.0.9",
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "console.table": "^0.10.0",
+    "crypto-js": "^4.1.1",
+    "discord-api-types": "^0.37.2",
+    "discord-tts": "^1.2.1",
+    "discord-tts-spanish": "^2.2.3",
+    "discord.js": "^13.7.0",
+    "ffmpeg-static": "^4.4.1",
+    "google-tts-api": "^2.0.2",
+    "google-tts-languages": "^1.0.4",
+    "i": "^0.3.7",
+    "index": "^0.4.0",
+    "libsodium-wrappers": "^0.7.10",
+    "node-opus": "^0.3.3",
+    "nodejs": "^0.0.0",
+    "nodemon": "^2.0.16",
+    "npm": "^8.17.0",
+    "opus": "^0.0.0",
+    "r6s-stats-api": "^1.0.1",
+    "speak-tts": "^2.0.8",
+    "talkify": "^2.2.0",
+    "tweetnacl": "^1.0.3"
+  },
+  "name": "olililimpo-bot",
+  "version": "1.0.0",
+  "description": "Bot per il server (LOLI)mpo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddy. & Freeky",
+  "license": "ISC"
+}
